@@ -1,5 +1,9 @@
 package lab2;
-
+/**
+ * Classe Principal que utiliza das outras classes subsequêntes, ContaLaboratorio, Disciplina, Conta Cantina, Saúde, e seus métodos.
+ * @author Luana Barbosa de Melo - 117210906
+ *
+ */
 public class Coisa {
     public static void main(String[] args) {
 
